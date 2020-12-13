@@ -1,0 +1,8 @@
+---
+refresh_interval: 2 # seconds
+max_price: 2100 # dollars/euros/etc
+urls:
+  - https://www.amazon.com/dp/B08L8HPKR6
+  - https://www.amazon.com/dp/B08L8LG4M3
+  - 
+...
