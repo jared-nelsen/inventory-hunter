@@ -2,7 +2,40 @@
 refresh_interval: 2 # seconds
 max_price: 2100 # dollars/euros/etc
 urls:
-  - https://www.amazon.com/dp/B08L8HPKR6
-  - https://www.amazon.com/dp/B08L8LG4M3
-  - 
+  - https://www.amazon.com/MSI-GeForce-RTX-3090-24G/dp/B08HR9D2JS/ref=sr_1_6?dchild=1&keywords=nvidia+3090&qid=1607858942&sr=8-6
+  - https://www.amazon.com/ASUS-Graphics-DisplayPort-Axial-tech-2-9-Slot/dp/B08J6GMWCQ/ref=sr_1_7?dchild=1&keywords=nvidia+3090&qid=1607858942&sr=8-7
+  - https://www.amazon.com/MSI-GeForce-RTX-3090-24G/dp/B08HRBW6VB/ref=sr_1_8?dchild=1&keywords=nvidia+3090&qid=1607858942&sr=8-8
+  - https://www.amazon.com/NVIDIA-GeForce-3090-Founders-Graphics/dp/B08HR6ZBYJ/ref=sr_1_9?dchild=1&keywords=nvidia+3090&qid=1607858942&sr=8-9
+  - https://www.amazon.com/ZOTAC-Graphics-IceStorm-Advanced-ZT-A30900D-10P/dp/B08HJQ182D/ref=sr_1_11?dchild=1&keywords=nvidia+3090&qid=1607858942&sr=8-11
+  - https://www.amazon.com/Gigabyte-Graphics-WINDFORCE-GV-N3090GAMING-OC-24GD/dp/B08HJRF2CN/ref=sr_1_12?dchild=1&keywords=nvidia+3090&qid=1607858942&sr=8-12
+  - https://www.amazon.com/EVGA-24G-P5-3975-KR-GeForce-Cooling-Backplate/dp/B08J61SS5R/ref=sr_1_1?dchild=1&keywords=3090&pd_rd_r=07eeb582-a701-4dc3-b222-ce7978e9aa57&pd_rd_w=Fzboj&pd_rd_wg=HBTFU&pf_rd_p=0ec05f25-9534-48fe-9c3e-40b89957230e&pf_rd_r=5985NNXB0B04Q89RWRXH&qid=1607858942&sr=8-1
+  - https://www.newegg.com/msi-geforce-rtx-3090-rtx3090-suprim-x-24g/p/N82E16814137610?Description=rtx%203090&cm_re=rtx_3090-_-14-137-610-_-Product&quicklink=true
+  - https://www.newegg.com/evga-geforce-rtx-3090-24g-p5-3987-kr/p/N82E16814487526?Description=rtx%203090&cm_re=rtx_3090-_-14-487-526-_-Product&quicklink=true
+  - https://www.newegg.com/msi-geforce-rtx-3090-rtx-3090-gaming-x-trio-24g/p/N82E16814137595?Description=rtx%203090&cm_re=rtx_3090-_-14-137-595-_-Product
+  - https://www.newegg.com/asus-geforce-rtx-3090-tuf-rtx3090-o24g-gaming/p/N82E16814126454?Description=rtx%203090&cm_re=rtx_3090-_-14-126-454-_-Product 
+  - https://www.newegg.com/msi-geforce-rtx-3090-rtx-3090-ventus-3x-24g-oc/p/N82E16814137596?Description=rtx%203090&cm_re=rtx_3090-_-14-137-596-_-Product
+  - https://www.newegg.com/zotac-geforce-rtx-3090-zt-a30900d-10p/p/N82E16814500503?Description=rtx%203090&cm_re=rtx_3090-_-14-500-503-_-Product
+  - https://www.newegg.com/gigabyte-geforce-rtx-3090-gv-n3090gaming-oc-24gd/p/N82E16814932327?Description=rtx%203090&cm_re=rtx_3090-_-14-932-327-_-Product
+  - https://www.newegg.com/asus-geforce-rtx-3090-tuf-rtx3090-24g-gaming/p/N82E16814126455?Description=rtx%203090&cm_re=rtx_3090-_-14-126-455-_-Product
+  - https://www.newegg.com/gigabyte-geforce-rtx-3090-gv-n3090aorus-x-24gd/p/N82E16814932340?Description=rtx%203090&cm_re=rtx_3090-_-14-932-340-_-Product
+  - https://www.newegg.com/gigabyte-geforce-rtx-3090-gv-n3090aorus-m-24gd/p/N82E16814932341?Description=rtx%203090&cm_re=rtx_3090-_-14-932-341-_-Product
+  - https://www.newegg.com/gigabyte-geforce-rtx-3090-gv-n3090eagle-24gd/p/N82E16814932366?Description=rtx%203090&cm_re=rtx_3090-_-14-932-366-_-Product
+  - https://www.newegg.com/evga-geforce-rtx-3090-24g-p5-3973-kr/p/N82E16814487523?Description=rtx%203090&cm_re=rtx_3090-_-14-487-523-_-Product
+  - https://www.newegg.com/gigabyte-geforce-rtx-3090-gv-n3090eagle-oc-24gd/p/N82E16814932328?Description=rtx%203090&cm_re=rtx_3090-_-14-932-328-_-Product
+  - https://www.newegg.com/evga-geforce-rtx-3090-24g-p5-3975-kr/p/N82E16814487524?Description=rtx%203090&cm_re=rtx_3090-_-14-487-524-_-Product
+  - https://www.newegg.com/msi-geforce-rtx-3090-rtx-3090-ventus-3x-24g/p/N82E16814137599?Description=rtx%203090&cm_re=rtx_3090-_-14-137-599-_-Product
+  - https://www.newegg.com/evga-geforce-rtx-3090-24g-p5-3985-kr/p/N82E16814487525?Description=rtx%203090&cm_re=rtx_3090-_-14-487-525-_-Product&quicklink=true
+  - https://www.bhphotovideo.com/c/product/1595781-REG/pny_technologies_vcg309024tfxmpb_geforce_rtx_3090_24gb.html
+  - https://www.bestbuy.com/site/nvidia-geforce-rtx-3090-24gb-gddr6x-pci-express-4-0-graphics-card-titanium-and-black/6429434.p?skuId=6429434
+  - https://www.bestbuy.com/site/evga-geforce-rtx-3090-xc3-ultra-gaming-24gb-gddr6-pci-express-4-0-graphics-card/6434198.p?skuId=6434198
+  - https://www.bestbuy.com/site/asus-geforce-rtx-3090-24gb-gddr6x-pci-express-4-0-strix-graphics-card-black/6432447.p?skuId=6432447
+  - https://www.bestbuy.com/site/asus-tuf-rtx-3090-24gb-gddr6x-pci-express-4-0-graphics-card-black/6432446.p?skuId=6432446
+  - https://www.bestbuy.com/site/gigabyte-geforce-rtx-3090-24g-gddr6x-pci-express-4-0-graphics-card-black/6437910.p?skuId=6437910
+  - https://www.bestbuy.com/site/gigabyte-geforce-rtx-3090-24g-gddr6x-pci-express-4-0-graphics-card-black/6430623.p?skuId=6430623
+  - https://www.bestbuy.com/site/pny-geforce-rtx-3090-24gb-xlr8-gaming-epic-x-rgb-triple-fan-graphics-card/6432656.p?skuId=6432656
+  - https://www.bestbuy.com/site/evga-geforce-rtx-3090-ftw3-ultra-gaming-24gb-gddr6-pci-express-4-0-graphics-card/6436192.p?skuId=6436192
+  - https://www.bestbuy.com/site/pny-geforce-rtx-3090-24gb-xlr8-gaming-epic-x-rgb-triple-fan-graphics-card/6432657.p?skuId=6432657
+  - https://www.bestbuy.com/site/evga-geforce-rtx-3090-ftw3-gaming-24gb-gddr6-pci-express-4-0-graphics-card/6436193.p?skuId=6436193
+  - https://www.bestbuy.com/site/msi-geforce-rtx-3090-ventus-3x-24g-oc-bv-24gb-gddr6x-pci-express-4-0-graphics-card-black-silver/6430215.p?skuId=6430215
+  - https://www.bestbuy.com/site/gigabyte-geforce-rtx-3090-24g-gddr6x-pci-express-4-0-graphics-card-black/6430624.p?skuId=6430624
 ...
